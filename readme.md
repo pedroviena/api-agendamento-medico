@@ -61,5 +61,5 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### 1. Clone o repositório
 
 ```bash
-git clone [https://github.com/](https://github.com/)[pedroviena]/[api-agendamento-medico].git
-cd [api-agendamento-medico]
+git clone https://github.com/pedroviena/api-agendamento-medico.git)
+cd api-agendamento-medico
